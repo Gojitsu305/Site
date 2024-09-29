@@ -1,0 +1,23 @@
+body {
+    font-family: 'Comic Sans',sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    background-color:#f0f0f0; /*Light gray background */
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: blue;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
